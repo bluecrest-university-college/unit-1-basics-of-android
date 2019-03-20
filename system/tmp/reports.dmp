@@ -94,3 +94,21 @@
   "threadDumpPath": "C:\\Users\\Naa\\.AndroidStudio3.3\\system\\log\\threadDumps-freeze-20190319-225604-AI-182.5107.16.33.5264788\\threadDump-20190319-225610.txt",
   "description": "UIFreeze"
 }
+{
+  "formatVersion": 1,
+  "type": "PerformanceThreadDump",
+  "threadDumpPath": "C:\\Users\\Naa\\.AndroidStudio3.3\\system\\log\\threadDumps-freeze-20190319-234038-AI-182.5107.16.33.5264788\\threadDump-20190319-234044.txt",
+  "description": "UIFreeze"
+}
+{
+  "formatVersion": 1,
+  "type": "PerformanceThreadDump",
+  "threadDumpPath": "C:\\Users\\Naa\\.AndroidStudio3.3\\system\\log\\threadDumps-freeze-20190319-234607-AI-182.5107.16.33.5264788\\threadDump-20190319-234614.txt",
+  "description": "UIFreeze"
+}
+{
+  "formatVersion": 1,
+  "type": "PerformanceThreadDump",
+  "threadDumpPath": "C:\\Users\\Naa\\.AndroidStudio3.3\\system\\log\\threadDumps-freeze-20190319-234615-AI-182.5107.16.33.5264788\\threadDump-20190319-234621.txt",
+  "description": "UIFreeze"
+}

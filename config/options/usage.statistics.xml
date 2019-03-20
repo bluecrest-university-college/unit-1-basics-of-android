@@ -3,56 +3,59 @@
     <counts>
       <entry action="$Copy" count="1" />
       <entry action="$Paste" count="3" />
-      <entry action="$SelectAll" count="15" />
+      <entry action="$SelectAll" count="16" />
       <entry action="$Undo" count="24" />
       <entry action="Android.RunAndroidAvdManager" count="9" />
       <entry action="Android.RunAndroidSdkManager" count="8" />
-      <entry action="Android.SyncProject" count="4" />
+      <entry action="Android.SyncProject" count="5" />
       <entry action="ChangesView.GroupBy" count="2" />
       <entry action="ChangesView.GroupBy.Directory" count="4" />
       <entry action="ChangesView.Refresh" count="1" />
       <entry action="CheckinFiles" count="5" />
-      <entry action="CheckinProject" count="14" />
+      <entry action="CheckinProject" count="19" />
       <entry action="ChooseRunConfiguration" count="9" />
       <entry action="Debug" count="3" />
       <entry action="DialogOkAction Enter" count="1" />
-      <entry action="EditorBackSpace" count="1941" />
-      <entry action="EditorChooseLookupItem" count="6" />
+      <entry action="EditorBackSpace" count="2088" />
+      <entry action="EditorChooseLookupItem" count="9" />
       <entry action="EditorCopy" count="3" />
       <entry action="EditorCut" count="1" />
       <entry action="EditorDeleteToWordStart" count="1" />
-      <entry action="EditorDown" count="479" />
-      <entry action="EditorEnter" count="47" />
-      <entry action="EditorLeft" count="76" />
+      <entry action="EditorDown" count="579" />
+      <entry action="EditorEnter" count="50" />
+      <entry action="EditorLeft" count="90" />
       <entry action="EditorLineEnd" count="1" />
-      <entry action="EditorPaste" count="4" />
-      <entry action="EditorRight" count="42" />
+      <entry action="EditorPaste" count="7" />
+      <entry action="EditorPreviousWord" count="1" />
+      <entry action="EditorRight" count="61" />
       <entry action="EditorStartNewLine" count="1" />
-      <entry action="EditorUp" count="479" />
+      <entry action="EditorUp" count="540" />
       <entry action="ExternalSystem.RefreshAllProjects" count="1" />
       <entry action="FileChooser.GotoDesktop" count="6" />
       <entry action="FileChooser.GotoProject" count="2" />
-      <entry action="Git.Add" count="5" />
-      <entry action="Git.Branches" count="1" />
-      <entry action="Git.Configure.Remotes" count="2" />
+      <entry action="Git.Add" count="6" />
+      <entry action="Git.Branches" count="2" />
+      <entry action="Git.Configure.Remotes" count="7" />
       <entry action="Git.Init" count="1" />
-      <entry action="Git.Pull" count="3" />
-      <entry action="Git.Reset" count="1" />
+      <entry action="Git.Pull" count="4" />
+      <entry action="Git.Rebase.Abort" count="1" />
+      <entry action="Git.Reset" count="2" />
       <entry action="Github.Create.Gist" count="1" />
       <entry action="Github.Share" count="2" />
       <entry action="GotoAction" count="1" />
       <entry action="HideAllWindows" count="11" />
       <entry action="ImportProject" count="2" />
       <entry action="InspectCode" count="1" />
-      <entry action="NewProject" count="7" />
-      <entry action="Run" count="36" />
+      <entry action="NewProject" count="10" />
+      <entry action="Run" count="38" />
       <entry action="SaveAll" count="21" />
       <entry action="ShowSettings" count="18" />
-      <entry action="Start.Use.Vcs" count="1" />
+      <entry action="Start.Use.Vcs" count="2" />
       <entry action="TemplateProjectProperties" count="2" />
-      <entry action="Vcs.Push" count="7" />
-      <entry action="Vcs.RefreshStatuses" count="2" />
-      <entry action="Vcs.UpdateProject" count="3" />
+      <entry action="Vcs.Push" count="15" />
+      <entry action="Vcs.QuickListPopupAction" count="2" />
+      <entry action="Vcs.RefreshStatuses" count="5" />
+      <entry action="Vcs.UpdateProject" count="4" />
       <entry action="editRunConfigurations" count="1" />
     </counts>
   </component>
@@ -60,15 +63,17 @@
     <session id="655482535">
       <usages-collector id="statistics.lifecycle.app">
         <counts>
-          <entry key="ide.error" value="1" />
-          <entry key="ide.freeze.10" value="2" />
+          <entry key="ide.error" value="2" />
+          <entry key="ide.freeze.10" value="3" />
           <entry key="ide.freeze.11" value="2" />
           <entry key="ide.freeze.12" value="2" />
           <entry key="ide.freeze.14" value="1" />
           <entry key="ide.freeze.22" value="1" />
           <entry key="ide.freeze.23" value="2" />
           <entry key="ide.freeze.25" value="1" />
+          <entry key="ide.freeze.6" value="1" />
           <entry key="ide.freeze.7" value="6" />
+          <entry key="ide.freeze.8" value="1" />
           <entry key="ide.freeze.9" value="1" />
           <entry key="ide.start" value="3" />
         </counts>
@@ -107,7 +112,7 @@
     <feature id="codeassists.parameterInfo" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.inlineParameter" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.quickdefinition" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.completion.basic" count="16" last-shown="0" last-used="1553061155764" shown-count="0" />
+    <feature id="editing.completion.basic" count="19" last-shown="0" last-used="1553064392278" shown-count="0" />
     <feature id="refactoring.inlineConst" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="tag.name.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="generate.definitions" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -131,8 +136,8 @@
     <feature id="refactoring.appCodeIntroduceVariable" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.moveMembers" count="0" last-shown="0" last-used="0" shown-count="0" />
     <completionStatsTag>
-      <option name="sparedCharacters" value="144" />
-      <option name="invocations" value="14" />
+      <option name="sparedCharacters" value="170" />
+      <option name="invocations" value="17" />
       <option name="startDate" value="1552287600000" />
       <option name="dayCount" value="4" />
       <option name="lastDate" value="1552978800000" />
@@ -154,7 +159,7 @@
     <counts>
       <entry path="Analyze -&gt; Inspect Code..." count="1" />
       <entry path="File -&gt; New -&gt; Import Project..." count="2" />
-      <entry path="File -&gt; New -&gt; New Project..." count="7" />
+      <entry path="File -&gt; New -&gt; New Project..." count="10" />
       <entry path="File -&gt; Other Settings -&gt; Settings for New Projects..." count="2" />
       <entry path="File -&gt; Save All" count="4" />
       <entry path="File -&gt; Settings..." count="18" />
@@ -164,41 +169,44 @@
       <entry path="Run -&gt; Run..." count="9" />
       <entry path="Tools -&gt; AVD Manager" count="2" />
       <entry path="Tools -&gt; SDK Manager" count="5" />
-      <entry path="VCS -&gt; Commit" count="4" />
-      <entry path="VCS -&gt; Enable Version Control Integration..." count="1" />
-      <entry path="VCS -&gt; Git -&gt; Add" count="1" />
-      <entry path="VCS -&gt; Git -&gt; Branches..." count="1" />
+      <entry path="VCS -&gt; Commit" count="6" />
+      <entry path="VCS -&gt; Enable Version Control Integration..." count="2" />
+      <entry path="VCS -&gt; Git -&gt; Abort Rebase" count="1" />
+      <entry path="VCS -&gt; Git -&gt; Add" count="2" />
+      <entry path="VCS -&gt; Git -&gt; Branches..." count="2" />
       <entry path="VCS -&gt; Git -&gt; Commit File" count="1" />
-      <entry path="VCS -&gt; Git -&gt; Pull..." count="3" />
-      <entry path="VCS -&gt; Git -&gt; Push..." count="6" />
-      <entry path="VCS -&gt; Git -&gt; Remotes..." count="2" />
-      <entry path="VCS -&gt; Git -&gt; Reset HEAD..." count="1" />
+      <entry path="VCS -&gt; Git -&gt; Pull..." count="4" />
+      <entry path="VCS -&gt; Git -&gt; Push..." count="14" />
+      <entry path="VCS -&gt; Git -&gt; Remotes..." count="7" />
+      <entry path="VCS -&gt; Git -&gt; Reset HEAD..." count="2" />
       <entry path="VCS -&gt; Import into Version Control -&gt; Create Git Repository..." count="1" />
       <entry path="VCS -&gt; Import into Version Control -&gt; Share Project on GitHub" count="2" />
-      <entry path="VCS -&gt; Refresh File Status" count="2" />
+      <entry path="VCS -&gt; Refresh File Status" count="5" />
       <entry path="VCS -&gt; Update Project" count="1" />
+      <entry path="VCS -&gt; VCS Operations Popup..." count="2" />
     </counts>
   </component>
   <component name="ShortcutsCollector">
     <counts>
-      <entry shortcut="Backspace" count="1941" />
-      <entry shortcut="Ctrl+A" count="15" />
+      <entry shortcut="Backspace" count="2088" />
+      <entry shortcut="Ctrl+A" count="16" />
       <entry shortcut="Ctrl+Backspace" count="1" />
       <entry shortcut="Ctrl+C" count="3" />
       <entry shortcut="Ctrl+F1" count="2" />
+      <entry shortcut="Ctrl+Left" count="1" />
       <entry shortcut="Ctrl+P" count="4" />
       <entry shortcut="Ctrl+S" count="17" />
       <entry shortcut="Ctrl+Shift+A" count="2" />
-      <entry shortcut="Ctrl+V" count="4" />
+      <entry shortcut="Ctrl+V" count="7" />
       <entry shortcut="Ctrl+X" count="1" />
       <entry shortcut="Ctrl+Z" count="24" />
-      <entry shortcut="Down" count="484" />
+      <entry shortcut="Down" count="584" />
       <entry shortcut="End" count="1" />
-      <entry shortcut="Enter" count="58" />
-      <entry shortcut="Left" count="76" />
-      <entry shortcut="Right" count="42" />
+      <entry shortcut="Enter" count="64" />
+      <entry shortcut="Left" count="90" />
+      <entry shortcut="Right" count="61" />
       <entry shortcut="Shift+Enter" count="1" />
-      <entry shortcut="Up" count="481" />
+      <entry shortcut="Up" count="542" />
     </counts>
   </component>
   <component name="StatisticsApplicationUsages">
@@ -206,13 +214,18 @@
       <project id="MyApplication2" values="AndroidRunConfigurationType" collectionTime="1553023118384" />
     </group>
     <group name="module type">
+      <project id=".AndroidStudio3.3" values="JAVA_MODULE" collectionTime="1553063889765" />
       <project id="My Application" values="JAVA_MODULE" collectionTime="1553057356091" />
       <project id="MyApplication2" values="JAVA_MODULE" collectionTime="1553057345154" />
+    </group>
+    <group name="vcs">
+      <project id=".AndroidStudio3.3" values="Git" collectionTime="1553063889547" />
     </group>
     <group name="VCS Log 2">
       <project id="MyApplication2" values="data.git.root.count.1,data.commit.count.1+,data.users.count.1+,data.branches.count.1+" collectionTime="1553023118743" />
     </group>
     <group name="file-type">
+      <project id=".AndroidStudio3.3" values="IDEA_MODULE,Groovy,ARCHIVE,Assembly file,Kotlin,UNKNOWN,JSON,PLAIN_TEXT,XML,JAVA,Properties,Image,ProGuard File" collectionTime="1553063889765" />
       <project id="My Application" values="Groovy,Properties,ARCHIVE,XML,PLAIN_TEXT,Kotlin,Image,ProGuard File,IDEA_MODULE" collectionTime="1553057356091" />
       <project id="MyApplication2" values="Image,ARCHIVE,Kotlin,JAVA,Groovy,PLAIN_TEXT,Properties,IDEA_MODULE,XML,ProGuard File" collectionTime="1553057345154" />
     </group>
@@ -223,14 +236,17 @@
       <project id="MyApplication2" values="kotlin.formatter.kind.idea_default,kotlin.formatter.defaults.null" collectionTime="1553023119790" />
     </group>
     <group name="module-language-level">
+      <project id=".AndroidStudio3.3" values="JDK_1_7" collectionTime="1553063889765" />
       <project id="My Application" values="JDK_1_7" collectionTime="1553057356091" />
       <project id="MyApplication2" values="JDK_1_7" collectionTime="1553057345263" />
     </group>
     <group name="frameworks">
+      <project id=".AndroidStudio3.3" values="kotlin-language,android-gradle,java-gradle,android" collectionTime="1553063889765" />
       <project id="My Application" values="android-gradle" collectionTime="1553057356091" />
       <project id="MyApplication2" values="java-gradle,kotlin-language,android-gradle,android" collectionTime="1553057345154" />
     </group>
     <group name="vcs-stats">
+      <project id=".AndroidStudio3.3" values="has.default.vcs.root.mapping.enabled,vcs.roots.count.1,unversioned.files.count.50+,active.changelists.count.1,ignored.files.count.1" collectionTime="1553063889547" />
       <project id="My Application" values="active.changelists.count.1,unversioned.files.count.0,ignored.files.count.0,has.default.vcs.root.mapping.enabled,vcs.roots.count.0" collectionTime="1553057356060" />
       <project id="MyApplication2" values="active.changelists.count.1,ignored.files.count.1,unversioned.files.count.0,vcs.roots.count.0,has.default.vcs.root.mapping.enabled" collectionTime="1553057345107" />
     </group>
@@ -238,9 +254,11 @@
       <project id="MyApplication2" values="config.save.policy.STASH,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,version.2.21.0-CYGWIN,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,data.remote.branches.count.0,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,data.remotes.in.project.0,data.local.branches.count.1" collectionTime="1553023118806" />
     </group>
     <group name="libraries">
+      <project id=".AndroidStudio3.3" values="kotlin-java-runtime" collectionTime="1553063889765" />
       <project id="MyApplication2" values="kotlin-java-runtime" collectionTime="1553057345263" />
     </group>
     <group name="vcs-options">
+      <project id=".AndroidStudio3.3" values="commit.before.check.non.empty.comment.disabled,offer.move.partially.committed.disabled,commit.before.check.code.smell.enabled,perform.commit.in.background.enabled,commit.show.unversioned.enabled,commit.before.rearrange.disabled,perform.add_remove.in.background.enabled,perform.edit.in.background.enabled,perform.checkout.in.background.enabled,commit.before.check.code.cleanup.disabled,commit.before.check.todo.enabled,include.text.into.shelf.enabled,offer.move.failed.committed.do_nothing_silently,changelist.preselect.existing.disabled,commit.before.optimize.imports.disabled,perform.update.in.background.enabled,show.changes.preview.disabled,commit.use.right.margin.enabled,commit.before.reformat.project.disabled,perform.rollback.in.background.disabled,check.conflicts.in.background.disabled,offer.remove.empty.changelist.show_confirmation,commit.clear.initial.comment.disabled,changelist.make.new.active.disabled" collectionTime="1553063889547" />
       <project id="My Application" values="changelist.make.new.active.disabled,perform.checkout.in.background.enabled,commit.before.check.code.smell.enabled,check.conflicts.in.background.disabled,perform.commit.in.background.enabled,commit.show.unversioned.enabled,commit.clear.initial.comment.disabled,include.text.into.shelf.enabled,perform.update.in.background.enabled,perform.rollback.in.background.disabled,commit.use.right.margin.enabled,perform.edit.in.background.enabled,commit.before.check.non.empty.comment.disabled,commit.before.check.todo.enabled,commit.before.optimize.imports.disabled,offer.move.partially.committed.disabled,changelist.preselect.existing.disabled,commit.before.rearrange.disabled,perform.add_remove.in.background.enabled,offer.move.failed.committed.do_nothing_silently,offer.remove.empty.changelist.show_confirmation,commit.before.check.code.cleanup.disabled,commit.before.reformat.project.disabled,show.changes.preview.disabled" collectionTime="1553057356060" />
       <project id="MyApplication2" values="commit.before.check.code.cleanup.disabled,offer.move.partially.committed.disabled,show.changes.preview.disabled,commit.before.rearrange.disabled,commit.show.unversioned.enabled,commit.use.right.margin.enabled,offer.move.failed.committed.do_nothing_silently,check.conflicts.in.background.disabled,offer.remove.empty.changelist.show_confirmation,perform.edit.in.background.enabled,commit.clear.initial.comment.disabled,perform.commit.in.background.enabled,perform.rollback.in.background.disabled,commit.before.check.todo.enabled,commit.before.optimize.imports.disabled,changelist.make.new.active.disabled,commit.before.check.code.smell.enabled,changelist.preselect.existing.disabled,perform.update.in.background.enabled,include.text.into.shelf.enabled,perform.add_remove.in.background.enabled,commit.before.reformat.project.disabled,commit.before.check.non.empty.comment.disabled,perform.checkout.in.background.enabled" collectionTime="1553057345107" />
     </group>
@@ -248,11 +266,13 @@
   <component name="ToolWindowCollector">
     <counts>
       <entry toolWindow="Assistant by Activation" count="1" />
-      <entry toolWindow="Build by Activation" count="15" />
+      <entry toolWindow="Build by Activation" count="16" />
+      <entry toolWindow="Device File Explorer by Activation" count="1" />
+      <entry toolWindow="Event Log by Activation" count="4" />
       <entry toolWindow="Logcat by Activation" count="4" />
       <entry toolWindow="Messages by Activation" count="3" />
       <entry toolWindow="Preview by Activation" count="2" />
-      <entry toolWindow="Project by Activation" count="8" />
+      <entry toolWindow="Project by Activation" count="10" />
       <entry toolWindow="Run by Activation" count="1" />
       <entry toolWindow="TODO by Activation" count="1" />
       <entry toolWindow="Terminal by Activation" count="1" />
@@ -263,17 +283,17 @@
     <counts>
       <entry action="Android.RunAndroidAvdManager@NavBarToolbar" count="7" />
       <entry action="Android.RunAndroidSdkManager@NavBarToolbar" count="3" />
-      <entry action="Android.SyncProject@NavBarToolbar" count="1" />
+      <entry action="Android.SyncProject@NavBarToolbar" count="2" />
       <entry action="ChangesView.GroupBy@ChangesBrowser" count="2" />
       <entry action="ChangesView.Refresh@ChangesBrowser" count="1" />
-      <entry action="CheckinProject@NavBarToolbar" count="10" />
+      <entry action="CheckinProject@NavBarToolbar" count="13" />
       <entry action="Debug@NavBarToolbar" count="2" />
       <entry action="ExternalSystem.RefreshAllProjects@Gradle View Toolbar" count="1" />
       <entry action="FileChooser.GotoDesktop@FileChooserDialog" count="6" />
       <entry action="FileChooser.GotoProject@FileChooserDialog" count="2" />
-      <entry action="Run@NavBarToolbar" count="36" />
+      <entry action="Run@NavBarToolbar" count="38" />
       <entry action="RunConfiguration@NavBarToolbar" count="4" />
-      <entry action="Vcs.UpdateProject@NavBarToolbar" count="2" />
+      <entry action="Vcs.UpdateProject@NavBarToolbar" count="3" />
       <entry action="com.android.tools.adtui.actions.DropDownAction@toolbar" count="4" />
       <entry action="com.android.tools.adtui.workbench.AttachedToolWindow$GearAction@TOOL_WINDOW_TOOLBAR" count="4" />
       <entry action="com.android.tools.adtui.workbench.AttachedToolWindow$HideAction@TOOL_WINDOW_TOOLBAR" count="3" />
@@ -292,18 +312,18 @@
       <entry action="com.intellij.ide.actions.ExpandAllToolbarAction@TreeActionsToolbar" count="1" />
       <entry action="com.intellij.ide.util.gotoByName.ChooseByNameFilter$FilterAction@gotfile.filter" count="4" />
       <entry action="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction@ToolwindowTitle" count="1" />
-      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="5" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="8" />
     </counts>
   </component>
   <component name="UsageTrigger">
     <counts>
-      <entry feature="StripeButton[Android Profiler].hidden" count="6" />
-      <entry feature="StripeButton[Version Control].hidden" count="1" />
+      <entry feature="StripeButton[Android Profiler].hidden" count="8" />
+      <entry feature="StripeButton[Version Control].hidden" count="2" />
       <entry feature="StripeButton[Version Control].shown" count="1" />
       <entry feature="diff.DiffSettings.Tool.Unified viewer" count="1" />
       <entry feature="diff.TextDiffSettings.HighlightPolicy.DO_NOT_HIGHLIGHT" count="1" />
       <entry feature="execute.AndroidRunConfigurationType.Debug" count="2" />
-      <entry feature="execute.AndroidRunConfigurationType.Run" count="37" />
+      <entry feature="execute.AndroidRunConfigurationType.Run" count="39" />
       <entry feature="ide.settings.Android SDK" count="1" />
       <entry feature="ide.settings.Appearance" count="3" />
       <entry feature="ide.settings.GitHub" count="1" />

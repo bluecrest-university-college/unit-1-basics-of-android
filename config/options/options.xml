@@ -28,7 +28,7 @@
     <property name="AndroidInitConfigurator.V1" value="true" />
     <property name="AndroidInitConfigurator.V3" value="true" />
     <property name="AndroidInitConfigurator.V5" value="true" />
-    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.70279145" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.7619048" />
     <property name="CommittedChanges.SplitterProportions.0" value="700" />
     <property name="CommittedChanges.SplitterProportions.1" value="500" />
     <property name="Darcula.savedEditorTheme" value="_@user_Darcula" />
@@ -37,14 +37,13 @@
     <property name="ExpandRunDashboardTypesPanel" value="false" />
     <property name="FileChooser.ShowPath" value="true" />
     <property name="SAVED_ANDROID_PACKAGE" value="com.example" />
-    <property name="SAVED_PROJECT_KOTLIN_SUPPORT" value="true" />
     <property name="android-component-compatibility-check" value="1552625447689" />
     <property name="build.toolwindow.Build.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
     <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
     <property name="create.project.preferred.importer" value="Existing Sources" />
     <property name="decompiler.legal.notice.accepted" value="true" />
-    <property name="file.chooser.recent.files" value="$USER_HOME$/.AndroidStudio3.3&#10;C:/Windows&#10;C:/Windows/NEW FOLDER&#10;C:/Users/Naa/AndroidStudioProjects/MyApplication2&#10;C:/Users/Naa/Desktop&#10;C:/Users/Naa/Desktop/android studio" />
-    <property name="file.gist.reindex.count" value="121" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/.android&#10;C:/Users/Naa/.AndroidStudio3.3&#10;C:/Windows&#10;C:/Windows/NEW FOLDER&#10;C:/Users/Naa/AndroidStudioProjects/MyApplication2&#10;C:/Users/Naa/Desktop&#10;C:/Users/Naa/Desktop/android studio" />
+    <property name="file.gist.reindex.count" value="136" />
     <property name="fileTypeChangedCounter" value="1" />
     <property name="installed.kotlin.plugin.version" value="1.3.20-release-Studio3.3-1" />
     <property name="kotlin.lastUpdateCheck" value="1553043595322" />

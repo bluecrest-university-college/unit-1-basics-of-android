@@ -20,11 +20,15 @@
     <location key="IDE.errors.dialog.0.0.1366.768" x="263" y="97" />
     <location key="CommitChangelistDialog2.0.0.1366.768" x="303" y="0" />
     <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1366.768" x="416" y="165" />
+    <location key="git4idea.ui.GitResetDialog.0.0.1366.768" x="451" y="257" />
+    <location key="MultipleFileMergeDialog.0.0.1366.768" x="395" y="87" />
+    <location key="MergeDialog.0.0.1366.768" x="117" y="27" />
+    <location key="VCS.ChangeListViewerDialog.0.0.1366.768" x="431" y="69" />
     <size key="GotoFile_FileTypePopup.0.0.1366.768" width="203" height="200" />
-    <size key="GridCell.Tab.0.left.0.0.1366.768" width="1322" height="133" />
-    <size key="GridCell.Tab.0.center.0.0.1366.768" width="1322" height="133" />
-    <size key="GridCell.Tab.0.right.0.0.1366.768" width="1322" height="133" />
-    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1322" height="133" />
+    <size key="GridCell.Tab.0.left.0.0.1366.768" width="0" height="0" />
+    <size key="GridCell.Tab.0.center.0.0.1366.768" width="0" height="0" />
+    <size key="GridCell.Tab.0.right.0.0.1366.768" width="0" height="0" />
+    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="0" height="0" />
     <size key="SettingsEditor.0.0.1366.768" width="933" height="723" />
     <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1366.768" width="1092" height="702" />
   </component>
