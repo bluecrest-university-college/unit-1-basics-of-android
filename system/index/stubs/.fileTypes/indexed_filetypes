@@ -1,0 +1,13 @@
+1553055542203
+Properties￿stub:com.intellij.lang.properties.parsing.PropertiesElementTypes$1,0￿1553055542202
+LLDBCommands￿stub:com.intellij.psi.tree.IStubFileElementType,0￿1553055542201
+KJSM￿binary stub builder:com.intellij.psi.impl.compiled.ClassFileStubBuilder,970144114￿1553055542200
+kotlin_builtins￿binary stub builder:com.intellij.psi.impl.compiled.ClassFileStubBuilder,970144114￿1553055542199
+HTML￿stub:com.intellij.psi.tree.IStubFileElementType,0￿1553055542198
+Groovy￿stub:org.jetbrains.plugins.groovy.lang.psi.stubs.elements.GrStubFileElementType,48￿1553055542197
+Kotlin￿stub:org.jetbrains.kotlin.psi.stubs.elements.KtFileElementType,135￿1553055542196
+KNM￿binary stub builder:com.intellij.psi.impl.compiled.ClassFileStubBuilder,970144114￿1553055542195
+JAVA￿stub:com.intellij.psi.impl.source.JavaFileElementType,41￿1553055542194
+XML￿binary stub builder:com.intellij.util.xml.stubs.builder.DomStubBuilder,21￿1553055542193
+CLASS￿binary stub builder:com.intellij.psi.impl.compiled.ClassFileStubBuilder,970144114￿1553055542192
+GDBCommands￿stub:com.intellij.psi.tree.IStubFileElementType,0￿1553055542191

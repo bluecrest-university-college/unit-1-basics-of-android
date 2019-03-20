@@ -1,0 +1,5 @@
+Actions:
+Action when freeze detected: com.android.tools.idea.actions.AndroidNewProjectAction (NewProject)
+Action duration when freeze detected: 11612ms
+Action when freeze ended: com.android.tools.idea.actions.AndroidNewProjectAction (NewProject)
+Action duration when freeze ended: 14693ms

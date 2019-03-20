@@ -1,0 +1,31 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1366.768" x="686" y="333" />
+    <location key="#HTTP_Proxy.0.0.1366.768" x="467" y="118" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1366.768" x="349" y="196" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1366.768" x="137" y="20" />
+    <location key="FileChooserDialogImpl.0.0.1366.768" x="463" y="120" />
+    <location key="SettingsEditor.0.0.1366.768" x="227" y="0" />
+    <location key="deploy.picker.dialog.0.0.1366.768" x="363" y="112" />
+    <location key="#app.0.0.1366.768" x="441" y="0" />
+    <location key="NewModule_or_Project.wizard.0.0.1366.768" x="357" y="59" />
+    <location key="#Browse_JetBrains_Plugins_.0.0.1366.768" x="261" y="15" />
+    <location key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1.0.0.1366.768" x="436" y="183" />
+    <location key="#com.intellij.ide.util.TreeClassChooserDialog.0.0.1366.768" x="412" y="155" />
+    <location key="Github.CreateGistDialog.0.0.1366.768" x="519" y="262" />
+    <location key="Vcs.Push.Dialog.0.0.1366.768" x="359" y="95" />
+    <location key="git4idea.merge.GitPullDialog.0.0.1366.768" x="450" y="146" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1366.768" x="461" y="240" />
+    <location key="#Notifications.0.0.1366.768" x="524" y="85" />
+    <location key="IDE.errors.dialog.0.0.1366.768" x="263" y="97" />
+    <location key="CommitChangelistDialog2.0.0.1366.768" x="303" y="0" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1366.768" x="416" y="165" />
+    <size key="GotoFile_FileTypePopup.0.0.1366.768" width="203" height="200" />
+    <size key="GridCell.Tab.0.left.0.0.1366.768" width="1322" height="133" />
+    <size key="GridCell.Tab.0.center.0.0.1366.768" width="1322" height="133" />
+    <size key="GridCell.Tab.0.right.0.0.1366.768" width="1322" height="133" />
+    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1322" height="133" />
+    <size key="SettingsEditor.0.0.1366.768" width="933" height="723" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1366.768" width="1092" height="702" />
+  </component>
+</application>

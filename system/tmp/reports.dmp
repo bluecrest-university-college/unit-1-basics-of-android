@@ -1,0 +1,96 @@
+{
+  "formatVersion": 1,
+  "type": "PerformanceThreadDump",
+  "threadDumpPath": "C:\\Users\\Naa\\.AndroidStudio3.3\\system\\log\\threadDumps-freeze-20190319-211846-AI-182.5107.16.33.5264788\\threadDump-20190319-211857.txt",
+  "description": "UIFreeze"
+}
+{
+  "formatVersion": 1,
+  "type": "PerformanceThreadDump",
+  "threadDumpPath": "C:\\Users\\Naa\\.AndroidStudio3.3\\system\\log\\threadDumps-freeze-20190319-214544-AI-182.5107.16.33.5264788\\threadDump-20190319-214550.txt",
+  "description": "UIFreeze"
+}
+{
+  "formatVersion": 1,
+  "type": "Freeze",
+  "threadDumpPath": "C:\\Users\\Naa\\.AndroidStudio3.3\\system\\log\\threadDumps-freeze-20190319-214544-AI-182.5107.16.33.5264788-7sec\\diagnosticReport-hotPathStackTrace.txt",
+  "profileDiagnosticsPath": "C:\\Users\\Naa\\.AndroidStudio3.3\\system\\log\\threadDumps-freeze-20190319-214544-AI-182.5107.16.33.5264788-7sec\\diagnosticReport-profileDiagnostics.txt",
+  "actionsDiagnosticsPath": "C:\\Users\\Naa\\.AndroidStudio3.3\\system\\log\\threadDumps-freeze-20190319-214544-AI-182.5107.16.33.5264788-7sec\\diagnosticReport-actionsDiagnostics.txt",
+  "memoryUseDiagnosticsPath": "C:\\Users\\Naa\\.AndroidStudio3.3\\system\\log\\threadDumps-freeze-20190319-214544-AI-182.5107.16.33.5264788-7sec\\diagnosticReport-memoryUseDiagnostics.txt",
+  "timedOut": "false",
+  "totalDuration": 6062
+}
+{
+  "formatVersion": 1,
+  "type": "PerformanceThreadDump",
+  "threadDumpPath": "C:\\Users\\Naa\\.AndroidStudio3.3\\system\\log\\threadDumps-freeze-20190319-224756-AI-182.5107.16.33.5264788\\threadDump-20190319-224803.txt",
+  "description": "UIFreeze"
+}
+{
+  "formatVersion": 1,
+  "type": "Freeze",
+  "threadDumpPath": "C:\\Users\\Naa\\.AndroidStudio3.3\\system\\log\\threadDumps-freeze-20190319-224756-AI-182.5107.16.33.5264788-11sec\\diagnosticReport-hotPathStackTrace.txt",
+  "profileDiagnosticsPath": "C:\\Users\\Naa\\.AndroidStudio3.3\\system\\log\\threadDumps-freeze-20190319-224756-AI-182.5107.16.33.5264788-11sec\\diagnosticReport-profileDiagnostics.txt",
+  "actionsDiagnosticsPath": "C:\\Users\\Naa\\.AndroidStudio3.3\\system\\log\\threadDumps-freeze-20190319-224756-AI-182.5107.16.33.5264788-11sec\\diagnosticReport-actionsDiagnostics.txt",
+  "memoryUseDiagnosticsPath": "C:\\Users\\Naa\\.AndroidStudio3.3\\system\\log\\threadDumps-freeze-20190319-224756-AI-182.5107.16.33.5264788-11sec\\diagnosticReport-memoryUseDiagnostics.txt",
+  "timedOut": "false",
+  "totalDuration": 10188
+}
+{
+  "formatVersion": 1,
+  "type": "PerformanceThreadDump",
+  "threadDumpPath": "C:\\Users\\Naa\\.AndroidStudio3.3\\system\\log\\threadDumps-freeze-20190319-224846-AI-182.5107.16.33.5264788\\threadDump-20190319-224852.txt",
+  "description": "UIFreeze"
+}
+{
+  "formatVersion": 1,
+  "type": "Freeze",
+  "threadDumpPath": "C:\\Users\\Naa\\.AndroidStudio3.3\\system\\log\\threadDumps-freeze-20190319-224846-AI-182.5107.16.33.5264788-10sec\\diagnosticReport-hotPathStackTrace.txt",
+  "profileDiagnosticsPath": "C:\\Users\\Naa\\.AndroidStudio3.3\\system\\log\\threadDumps-freeze-20190319-224846-AI-182.5107.16.33.5264788-10sec\\diagnosticReport-profileDiagnostics.txt",
+  "actionsDiagnosticsPath": "C:\\Users\\Naa\\.AndroidStudio3.3\\system\\log\\threadDumps-freeze-20190319-224846-AI-182.5107.16.33.5264788-10sec\\diagnosticReport-actionsDiagnostics.txt",
+  "memoryUseDiagnosticsPath": "C:\\Users\\Naa\\.AndroidStudio3.3\\system\\log\\threadDumps-freeze-20190319-224846-AI-182.5107.16.33.5264788-10sec\\diagnosticReport-memoryUseDiagnostics.txt",
+  "timedOut": "false",
+  "totalDuration": 9250
+}
+{
+  "formatVersion": 1,
+  "type": "PerformanceThreadDump",
+  "threadDumpPath": "C:\\Users\\Naa\\.AndroidStudio3.3\\system\\log\\threadDumps-freeze-20190319-224859-AI-182.5107.16.33.5264788\\threadDump-20190319-224905.txt",
+  "description": "UIFreeze"
+}
+{
+  "formatVersion": 1,
+  "type": "PerformanceThreadDump",
+  "threadDumpPath": "C:\\Users\\Naa\\.AndroidStudio3.3\\system\\log\\threadDumps-freeze-20190319-224909-AI-182.5107.16.33.5264788\\threadDump-20190319-224915.txt",
+  "description": "UIFreeze"
+}
+{
+  "formatVersion": 1,
+  "type": "PerformanceThreadDump",
+  "threadDumpPath": "C:\\Users\\Naa\\.AndroidStudio3.3\\system\\log\\threadDumps-freeze-20190319-224940-AI-182.5107.16.33.5264788\\threadDump-20190319-224946.txt",
+  "description": "UIFreeze"
+}
+{
+  "formatVersion": 1,
+  "type": "PerformanceThreadDump",
+  "threadDumpPath": "C:\\Users\\Naa\\.AndroidStudio3.3\\system\\log\\threadDumps-freeze-20190319-224940-AI-182.5107.16.33.5264788\\threadDump-20190319-224951.txt",
+  "description": "UIFreeze"
+}
+{
+  "formatVersion": 1,
+  "type": "PerformanceThreadDump",
+  "threadDumpPath": "C:\\Users\\Naa\\.AndroidStudio3.3\\system\\log\\threadDumps-freeze-20190319-225019-AI-182.5107.16.33.5264788\\threadDump-20190319-225025.txt",
+  "description": "UIFreeze"
+}
+{
+  "formatVersion": 1,
+  "type": "PerformanceThreadDump",
+  "threadDumpPath": "C:\\Users\\Naa\\.AndroidStudio3.3\\system\\log\\threadDumps-freeze-20190319-225019-AI-182.5107.16.33.5264788\\threadDump-20190319-225030.txt",
+  "description": "UIFreeze"
+}
+{
+  "formatVersion": 1,
+  "type": "PerformanceThreadDump",
+  "threadDumpPath": "C:\\Users\\Naa\\.AndroidStudio3.3\\system\\log\\threadDumps-freeze-20190319-225604-AI-182.5107.16.33.5264788\\threadDump-20190319-225610.txt",
+  "description": "UIFreeze"
+}

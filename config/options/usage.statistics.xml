@@ -1,0 +1,302 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Copy" count="1" />
+      <entry action="$Paste" count="3" />
+      <entry action="$SelectAll" count="13" />
+      <entry action="$Undo" count="24" />
+      <entry action="Android.RunAndroidAvdManager" count="9" />
+      <entry action="Android.RunAndroidSdkManager" count="8" />
+      <entry action="Android.SyncProject" count="3" />
+      <entry action="ChangesView.GroupBy" count="1" />
+      <entry action="ChangesView.GroupBy.Directory" count="4" />
+      <entry action="CheckinFiles" count="4" />
+      <entry action="CheckinProject" count="7" />
+      <entry action="ChooseRunConfiguration" count="9" />
+      <entry action="Debug" count="3" />
+      <entry action="DialogOkAction Enter" count="1" />
+      <entry action="EditorBackSpace" count="1882" />
+      <entry action="EditorChooseLookupItem" count="6" />
+      <entry action="EditorCopy" count="2" />
+      <entry action="EditorCut" count="1" />
+      <entry action="EditorDown" count="470" />
+      <entry action="EditorEnter" count="47" />
+      <entry action="EditorLeft" count="73" />
+      <entry action="EditorLineEnd" count="1" />
+      <entry action="EditorPaste" count="2" />
+      <entry action="EditorRight" count="33" />
+      <entry action="EditorUp" count="479" />
+      <entry action="ExternalSystem.RefreshAllProjects" count="1" />
+      <entry action="FileChooser.GotoDesktop" count="6" />
+      <entry action="FileChooser.GotoProject" count="2" />
+      <entry action="Git.Add" count="5" />
+      <entry action="Git.Init" count="1" />
+      <entry action="Git.Pull" count="2" />
+      <entry action="Github.Create.Gist" count="1" />
+      <entry action="Github.Share" count="2" />
+      <entry action="GotoAction" count="1" />
+      <entry action="HideAllWindows" count="11" />
+      <entry action="ImportProject" count="2" />
+      <entry action="InspectCode" count="1" />
+      <entry action="NewProject" count="6" />
+      <entry action="Run" count="36" />
+      <entry action="SaveAll" count="21" />
+      <entry action="ShowSettings" count="18" />
+      <entry action="Start.Use.Vcs" count="1" />
+      <entry action="TemplateProjectProperties" count="1" />
+      <entry action="Vcs.Push" count="2" />
+      <entry action="Vcs.UpdateProject" count="3" />
+      <entry action="editRunConfigurations" count="1" />
+    </counts>
+  </component>
+  <component name="FUSApplicationUsageTrigger">
+    <session id="655482535">
+      <usages-collector id="statistics.lifecycle.app">
+        <counts>
+          <entry key="ide.error" value="1" />
+          <entry key="ide.freeze.10" value="2" />
+          <entry key="ide.freeze.11" value="2" />
+          <entry key="ide.freeze.12" value="2" />
+          <entry key="ide.freeze.14" value="1" />
+          <entry key="ide.freeze.22" value="1" />
+          <entry key="ide.freeze.23" value="2" />
+          <entry key="ide.freeze.25" value="1" />
+          <entry key="ide.freeze.7" value="6" />
+          <entry key="ide.freeze.9" value="1" />
+          <entry key="ide.start" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.ide.self.update">
+        <counts>
+          <entry key="dialog.shown" value="1" />
+          <entry key="notification.clicked" value="1" />
+          <entry key="notification.shown" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.ui.tips">
+        <counts>
+          <entry key="next.tip" value="2" />
+          <entry key="shown.automatically" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FeatureUsageStatistics" first-run="1542197276005" have-been-shown="false" show-in-other="true" show-in-compilation="true">
+    <feature id="refactoring.moveTopLevel" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.introduceTypedef" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.rename" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.pushDown" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.inlineMacro" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.changeSignature" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickFix" count="3" last-shown="0" last-used="1553061996193" shown-count="0" />
+    <feature id="codeassists.altInsert" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.complete.statement" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.inlineTypedef" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.goto.inspection" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.introduceConstant" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.pullUp" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.class" count="1" last-shown="0" last-used="1551339575816" shown-count="0" />
+    <feature id="codeassists.overrideimplement" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.parameterInfo" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.inlineParameter" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickdefinition" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.basic" count="16" last-shown="0" last-used="1553061155764" shown-count="0" />
+    <feature id="refactoring.inlineConst" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="tag.name.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="generate.definitions" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.extractMethod" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.introduceDefine" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.surroundwith.expression" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.select.word" count="12" last-shown="0" last-used="1553061640404" shown-count="0" />
+    <feature id="refactoring.extractSuperclass" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.goto.declaration" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.inlineMethod" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.extractSubclass" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.smarttype.general" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.file.structure" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.liveTemplates" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.select.in" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.goto.usages" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickjavadoc" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.introduceParameter" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.inlineLocalVar" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.changeSorting" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.appCodeIntroduceVariable" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.moveMembers" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <completionStatsTag>
+      <option name="sparedCharacters" value="144" />
+      <option name="invocations" value="14" />
+      <option name="startDate" value="1552287600000" />
+      <option name="dayCount" value="4" />
+      <option name="lastDate" value="1552978800000" />
+    </completionStatsTag>
+    <fixesStatsTag>
+      <option name="invocations" value="3" />
+      <option name="startDate" value="1552978800000" />
+      <option name="dayCount" value="1" />
+      <option name="lastDate" value="1552978800000" />
+    </fixesStatsTag>
+  </component>
+  <component name="IntentionsCollector">
+    <Intentions>
+      <entry name="ASM codeInspection.LossyEncodingInspection$ReloadInAnotherEncodingFix" count="1" />
+      <entry name="ASM codeInspection.actions.CleanupInspectionIntention" count="2" />
+    </Intentions>
+  </component>
+  <component name="MainMenuCollector">
+    <counts>
+      <entry path="Analyze -&gt; Inspect Code..." count="1" />
+      <entry path="File -&gt; New -&gt; Import Project..." count="2" />
+      <entry path="File -&gt; New -&gt; New Project..." count="6" />
+      <entry path="File -&gt; Other Settings -&gt; Settings for New Projects..." count="1" />
+      <entry path="File -&gt; Save All" count="4" />
+      <entry path="File -&gt; Settings..." count="18" />
+      <entry path="File -&gt; Sync Project with Gradle Files" count="2" />
+      <entry path="Run -&gt; Debug" count="1" />
+      <entry path="Run -&gt; Run" count="1" />
+      <entry path="Run -&gt; Run..." count="9" />
+      <entry path="Tools -&gt; AVD Manager" count="2" />
+      <entry path="Tools -&gt; SDK Manager" count="5" />
+      <entry path="VCS -&gt; Commit" count="3" />
+      <entry path="VCS -&gt; Enable Version Control Integration..." count="1" />
+      <entry path="VCS -&gt; Git -&gt; Add" count="1" />
+      <entry path="VCS -&gt; Git -&gt; Pull..." count="2" />
+      <entry path="VCS -&gt; Git -&gt; Push..." count="1" />
+      <entry path="VCS -&gt; Import into Version Control -&gt; Create Git Repository..." count="1" />
+      <entry path="VCS -&gt; Import into Version Control -&gt; Share Project on GitHub" count="2" />
+      <entry path="VCS -&gt; Update Project" count="1" />
+    </counts>
+  </component>
+  <component name="ShortcutsCollector">
+    <counts>
+      <entry shortcut="Backspace" count="1882" />
+      <entry shortcut="Ctrl+A" count="13" />
+      <entry shortcut="Ctrl+C" count="2" />
+      <entry shortcut="Ctrl+F1" count="2" />
+      <entry shortcut="Ctrl+P" count="4" />
+      <entry shortcut="Ctrl+S" count="17" />
+      <entry shortcut="Ctrl+Shift+A" count="2" />
+      <entry shortcut="Ctrl+V" count="2" />
+      <entry shortcut="Ctrl+X" count="1" />
+      <entry shortcut="Ctrl+Z" count="24" />
+      <entry shortcut="Down" count="475" />
+      <entry shortcut="End" count="1" />
+      <entry shortcut="Enter" count="57" />
+      <entry shortcut="Left" count="73" />
+      <entry shortcut="Right" count="33" />
+      <entry shortcut="Up" count="481" />
+    </counts>
+  </component>
+  <component name="StatisticsApplicationUsages">
+    <group name="run-configuration-type">
+      <project id="MyApplication2" values="AndroidRunConfigurationType" collectionTime="1553023118384" />
+    </group>
+    <group name="module type">
+      <project id="My Application" values="JAVA_MODULE" collectionTime="1553057356091" />
+      <project id="MyApplication2" values="JAVA_MODULE" collectionTime="1553057345154" />
+    </group>
+    <group name="VCS Log 2">
+      <project id="MyApplication2" values="data.git.root.count.1,data.commit.count.1+,data.users.count.1+,data.branches.count.1+" collectionTime="1553023118743" />
+    </group>
+    <group name="file-type">
+      <project id="My Application" values="Groovy,Properties,ARCHIVE,XML,PLAIN_TEXT,Kotlin,Image,ProGuard File,IDEA_MODULE" collectionTime="1553057356091" />
+      <project id="MyApplication2" values="Image,ARCHIVE,Kotlin,JAVA,Groovy,PLAIN_TEXT,Properties,IDEA_MODULE,XML,ProGuard File" collectionTime="1553057345154" />
+    </group>
+    <group name="Run Dashboard">
+      <project id="MyApplication2" values="run.dashboard.disabled" collectionTime="1553023118603" />
+    </group>
+    <group name="kotlin.formatter">
+      <project id="MyApplication2" values="kotlin.formatter.kind.idea_default,kotlin.formatter.defaults.null" collectionTime="1553023119790" />
+    </group>
+    <group name="module-language-level">
+      <project id="My Application" values="JDK_1_7" collectionTime="1553057356091" />
+      <project id="MyApplication2" values="JDK_1_7" collectionTime="1553057345263" />
+    </group>
+    <group name="frameworks">
+      <project id="My Application" values="android-gradle" collectionTime="1553057356091" />
+      <project id="MyApplication2" values="java-gradle,kotlin-language,android-gradle,android" collectionTime="1553057345154" />
+    </group>
+    <group name="vcs-stats">
+      <project id="My Application" values="active.changelists.count.1,unversioned.files.count.0,ignored.files.count.0,has.default.vcs.root.mapping.enabled,vcs.roots.count.0" collectionTime="1553057356060" />
+      <project id="MyApplication2" values="active.changelists.count.1,ignored.files.count.1,unversioned.files.count.0,vcs.roots.count.0,has.default.vcs.root.mapping.enabled" collectionTime="1553057345107" />
+    </group>
+    <group name="Git">
+      <project id="MyApplication2" values="config.save.policy.STASH,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,version.2.21.0-CYGWIN,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,data.remote.branches.count.0,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,data.remotes.in.project.0,data.local.branches.count.1" collectionTime="1553023118806" />
+    </group>
+    <group name="libraries">
+      <project id="MyApplication2" values="kotlin-java-runtime" collectionTime="1553057345263" />
+    </group>
+    <group name="vcs-options">
+      <project id="My Application" values="changelist.make.new.active.disabled,perform.checkout.in.background.enabled,commit.before.check.code.smell.enabled,check.conflicts.in.background.disabled,perform.commit.in.background.enabled,commit.show.unversioned.enabled,commit.clear.initial.comment.disabled,include.text.into.shelf.enabled,perform.update.in.background.enabled,perform.rollback.in.background.disabled,commit.use.right.margin.enabled,perform.edit.in.background.enabled,commit.before.check.non.empty.comment.disabled,commit.before.check.todo.enabled,commit.before.optimize.imports.disabled,offer.move.partially.committed.disabled,changelist.preselect.existing.disabled,commit.before.rearrange.disabled,perform.add_remove.in.background.enabled,offer.move.failed.committed.do_nothing_silently,offer.remove.empty.changelist.show_confirmation,commit.before.check.code.cleanup.disabled,commit.before.reformat.project.disabled,show.changes.preview.disabled" collectionTime="1553057356060" />
+      <project id="MyApplication2" values="commit.before.check.code.cleanup.disabled,offer.move.partially.committed.disabled,show.changes.preview.disabled,commit.before.rearrange.disabled,commit.show.unversioned.enabled,commit.use.right.margin.enabled,offer.move.failed.committed.do_nothing_silently,check.conflicts.in.background.disabled,offer.remove.empty.changelist.show_confirmation,perform.edit.in.background.enabled,commit.clear.initial.comment.disabled,perform.commit.in.background.enabled,perform.rollback.in.background.disabled,commit.before.check.todo.enabled,commit.before.optimize.imports.disabled,changelist.make.new.active.disabled,commit.before.check.code.smell.enabled,changelist.preselect.existing.disabled,perform.update.in.background.enabled,include.text.into.shelf.enabled,perform.add_remove.in.background.enabled,commit.before.reformat.project.disabled,commit.before.check.non.empty.comment.disabled,perform.checkout.in.background.enabled" collectionTime="1553057345107" />
+    </group>
+  </component>
+  <component name="ToolWindowCollector">
+    <counts>
+      <entry toolWindow="Assistant by Activation" count="1" />
+      <entry toolWindow="Build by Activation" count="11" />
+      <entry toolWindow="Logcat by Activation" count="2" />
+      <entry toolWindow="Messages by Activation" count="3" />
+      <entry toolWindow="Preview by Activation" count="2" />
+      <entry toolWindow="Project by Activation" count="6" />
+      <entry toolWindow="Run by Activation" count="1" />
+    </counts>
+  </component>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="Android.RunAndroidAvdManager@NavBarToolbar" count="7" />
+      <entry action="Android.RunAndroidSdkManager@NavBarToolbar" count="3" />
+      <entry action="Android.SyncProject@NavBarToolbar" count="1" />
+      <entry action="ChangesView.GroupBy@ChangesBrowser" count="1" />
+      <entry action="CheckinProject@NavBarToolbar" count="4" />
+      <entry action="Debug@NavBarToolbar" count="2" />
+      <entry action="ExternalSystem.RefreshAllProjects@Gradle View Toolbar" count="1" />
+      <entry action="FileChooser.GotoDesktop@FileChooserDialog" count="6" />
+      <entry action="FileChooser.GotoProject@FileChooserDialog" count="2" />
+      <entry action="Run@NavBarToolbar" count="36" />
+      <entry action="RunConfiguration@NavBarToolbar" count="4" />
+      <entry action="Vcs.UpdateProject@NavBarToolbar" count="2" />
+      <entry action="com.android.tools.adtui.actions.DropDownAction@toolbar" count="4" />
+      <entry action="com.android.tools.adtui.workbench.AttachedToolWindow$GearAction@TOOL_WINDOW_TOOLBAR" count="4" />
+      <entry action="com.android.tools.adtui.workbench.AttachedToolWindow$HideAction@TOOL_WINDOW_TOOLBAR" count="3" />
+      <entry action="com.android.tools.idea.common.actions.IssueNotificationAction@NlRhsConfigToolbar" count="9" />
+      <entry action="com.android.tools.idea.common.actions.SetZoomAction@NlRhsConfigToolbar" count="51" />
+      <entry action="com.android.tools.idea.configurations.DeviceMenuAction@toolbar" count="4" />
+      <entry action="com.android.tools.idea.configurations.OrientationMenuAction@toolbar" count="1" />
+      <entry action="com.android.tools.idea.configurations.TargetMenuAction@toolbar" count="2" />
+      <entry action="com.android.tools.idea.uibuilder.editor.NlActionManager$ViewActionToolbarMenuWrapper@toolbar" count="5" />
+      <entry action="com.android.tools.idea.uibuilder.error.IssuePanel$MinimizeAction@unknown" count="3" />
+      <entry action="com.android.tools.idea.uibuilder.property.ViewAllPropertiesAction@TOOL_WINDOW_TOOLBAR" count="5" />
+      <entry action="com.intellij.diff.impl.DiffRequestProcessor$MyChangeDiffToolAction@DiffToolbar" count="1" />
+      <entry action="com.intellij.diff.tools.util.text.TextDiffProviderBase$MyIgnorePolicySettingAction@DiffToolbar" count="6" />
+      <entry action="com.intellij.ide.actions.CollapseAllToolbarAction@TreeActionsToolbar" count="1" />
+      <entry action="com.intellij.ide.actions.ExpandAllToolbarAction@TreeActionsToolbar" count="1" />
+      <entry action="com.intellij.ide.util.gotoByName.ChooseByNameFilter$FilterAction@gotfile.filter" count="4" />
+      <entry action="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction@ToolwindowTitle" count="1" />
+    </counts>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="StripeButton[Android Profiler].hidden" count="5" />
+      <entry feature="StripeButton[Version Control].hidden" count="1" />
+      <entry feature="StripeButton[Version Control].shown" count="1" />
+      <entry feature="execute.AndroidRunConfigurationType.Debug" count="2" />
+      <entry feature="execute.AndroidRunConfigurationType.Run" count="37" />
+      <entry feature="ide.settings.Android SDK" count="1" />
+      <entry feature="ide.settings.Appearance" count="3" />
+      <entry feature="ide.settings.GitHub" count="1" />
+      <entry feature="ide.settings.Gradle" count="1" />
+      <entry feature="ide.settings.HTTP Proxy" count="1" />
+      <entry feature="ide.settings.Instant Run" count="1" />
+      <entry feature="ide.settings.Plugins" count="1" />
+      <entry feature="ideaapp.started" count="31" />
+      <entry feature="project.view.pane.ProjectPane" count="3" />
+      <entry feature="terminal.win" count="2" />
+      <entry feature="tips.of.the.day.next" count="26" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="3" />
+      <entry feature="welcome.screen.WelcomeScreen.Update" count="1" />
+    </counts>
+  </component>
+  <component name="UsagesStatistic" show-notification="false" />
+</application>
