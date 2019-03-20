@@ -3,48 +3,55 @@
     <counts>
       <entry action="$Copy" count="1" />
       <entry action="$Paste" count="3" />
-      <entry action="$SelectAll" count="13" />
+      <entry action="$SelectAll" count="15" />
       <entry action="$Undo" count="24" />
       <entry action="Android.RunAndroidAvdManager" count="9" />
       <entry action="Android.RunAndroidSdkManager" count="8" />
-      <entry action="Android.SyncProject" count="3" />
-      <entry action="ChangesView.GroupBy" count="1" />
+      <entry action="Android.SyncProject" count="4" />
+      <entry action="ChangesView.GroupBy" count="2" />
       <entry action="ChangesView.GroupBy.Directory" count="4" />
-      <entry action="CheckinFiles" count="4" />
-      <entry action="CheckinProject" count="7" />
+      <entry action="ChangesView.Refresh" count="1" />
+      <entry action="CheckinFiles" count="5" />
+      <entry action="CheckinProject" count="14" />
       <entry action="ChooseRunConfiguration" count="9" />
       <entry action="Debug" count="3" />
       <entry action="DialogOkAction Enter" count="1" />
-      <entry action="EditorBackSpace" count="1882" />
+      <entry action="EditorBackSpace" count="1941" />
       <entry action="EditorChooseLookupItem" count="6" />
-      <entry action="EditorCopy" count="2" />
+      <entry action="EditorCopy" count="3" />
       <entry action="EditorCut" count="1" />
-      <entry action="EditorDown" count="470" />
+      <entry action="EditorDeleteToWordStart" count="1" />
+      <entry action="EditorDown" count="479" />
       <entry action="EditorEnter" count="47" />
-      <entry action="EditorLeft" count="73" />
+      <entry action="EditorLeft" count="76" />
       <entry action="EditorLineEnd" count="1" />
-      <entry action="EditorPaste" count="2" />
-      <entry action="EditorRight" count="33" />
+      <entry action="EditorPaste" count="4" />
+      <entry action="EditorRight" count="42" />
+      <entry action="EditorStartNewLine" count="1" />
       <entry action="EditorUp" count="479" />
       <entry action="ExternalSystem.RefreshAllProjects" count="1" />
       <entry action="FileChooser.GotoDesktop" count="6" />
       <entry action="FileChooser.GotoProject" count="2" />
       <entry action="Git.Add" count="5" />
+      <entry action="Git.Branches" count="1" />
+      <entry action="Git.Configure.Remotes" count="2" />
       <entry action="Git.Init" count="1" />
-      <entry action="Git.Pull" count="2" />
+      <entry action="Git.Pull" count="3" />
+      <entry action="Git.Reset" count="1" />
       <entry action="Github.Create.Gist" count="1" />
       <entry action="Github.Share" count="2" />
       <entry action="GotoAction" count="1" />
       <entry action="HideAllWindows" count="11" />
       <entry action="ImportProject" count="2" />
       <entry action="InspectCode" count="1" />
-      <entry action="NewProject" count="6" />
+      <entry action="NewProject" count="7" />
       <entry action="Run" count="36" />
       <entry action="SaveAll" count="21" />
       <entry action="ShowSettings" count="18" />
       <entry action="Start.Use.Vcs" count="1" />
-      <entry action="TemplateProjectProperties" count="1" />
-      <entry action="Vcs.Push" count="2" />
+      <entry action="TemplateProjectProperties" count="2" />
+      <entry action="Vcs.Push" count="7" />
+      <entry action="Vcs.RefreshStatuses" count="2" />
       <entry action="Vcs.UpdateProject" count="3" />
       <entry action="editRunConfigurations" count="1" />
     </counts>
@@ -147,43 +154,50 @@
     <counts>
       <entry path="Analyze -&gt; Inspect Code..." count="1" />
       <entry path="File -&gt; New -&gt; Import Project..." count="2" />
-      <entry path="File -&gt; New -&gt; New Project..." count="6" />
-      <entry path="File -&gt; Other Settings -&gt; Settings for New Projects..." count="1" />
+      <entry path="File -&gt; New -&gt; New Project..." count="7" />
+      <entry path="File -&gt; Other Settings -&gt; Settings for New Projects..." count="2" />
       <entry path="File -&gt; Save All" count="4" />
       <entry path="File -&gt; Settings..." count="18" />
-      <entry path="File -&gt; Sync Project with Gradle Files" count="2" />
+      <entry path="File -&gt; Sync Project with Gradle Files" count="3" />
       <entry path="Run -&gt; Debug" count="1" />
       <entry path="Run -&gt; Run" count="1" />
       <entry path="Run -&gt; Run..." count="9" />
       <entry path="Tools -&gt; AVD Manager" count="2" />
       <entry path="Tools -&gt; SDK Manager" count="5" />
-      <entry path="VCS -&gt; Commit" count="3" />
+      <entry path="VCS -&gt; Commit" count="4" />
       <entry path="VCS -&gt; Enable Version Control Integration..." count="1" />
       <entry path="VCS -&gt; Git -&gt; Add" count="1" />
-      <entry path="VCS -&gt; Git -&gt; Pull..." count="2" />
-      <entry path="VCS -&gt; Git -&gt; Push..." count="1" />
+      <entry path="VCS -&gt; Git -&gt; Branches..." count="1" />
+      <entry path="VCS -&gt; Git -&gt; Commit File" count="1" />
+      <entry path="VCS -&gt; Git -&gt; Pull..." count="3" />
+      <entry path="VCS -&gt; Git -&gt; Push..." count="6" />
+      <entry path="VCS -&gt; Git -&gt; Remotes..." count="2" />
+      <entry path="VCS -&gt; Git -&gt; Reset HEAD..." count="1" />
       <entry path="VCS -&gt; Import into Version Control -&gt; Create Git Repository..." count="1" />
       <entry path="VCS -&gt; Import into Version Control -&gt; Share Project on GitHub" count="2" />
+      <entry path="VCS -&gt; Refresh File Status" count="2" />
       <entry path="VCS -&gt; Update Project" count="1" />
     </counts>
   </component>
   <component name="ShortcutsCollector">
     <counts>
-      <entry shortcut="Backspace" count="1882" />
-      <entry shortcut="Ctrl+A" count="13" />
-      <entry shortcut="Ctrl+C" count="2" />
+      <entry shortcut="Backspace" count="1941" />
+      <entry shortcut="Ctrl+A" count="15" />
+      <entry shortcut="Ctrl+Backspace" count="1" />
+      <entry shortcut="Ctrl+C" count="3" />
       <entry shortcut="Ctrl+F1" count="2" />
       <entry shortcut="Ctrl+P" count="4" />
       <entry shortcut="Ctrl+S" count="17" />
       <entry shortcut="Ctrl+Shift+A" count="2" />
-      <entry shortcut="Ctrl+V" count="2" />
+      <entry shortcut="Ctrl+V" count="4" />
       <entry shortcut="Ctrl+X" count="1" />
       <entry shortcut="Ctrl+Z" count="24" />
-      <entry shortcut="Down" count="475" />
+      <entry shortcut="Down" count="484" />
       <entry shortcut="End" count="1" />
-      <entry shortcut="Enter" count="57" />
-      <entry shortcut="Left" count="73" />
-      <entry shortcut="Right" count="33" />
+      <entry shortcut="Enter" count="58" />
+      <entry shortcut="Left" count="76" />
+      <entry shortcut="Right" count="42" />
+      <entry shortcut="Shift+Enter" count="1" />
       <entry shortcut="Up" count="481" />
     </counts>
   </component>
@@ -234,12 +248,15 @@
   <component name="ToolWindowCollector">
     <counts>
       <entry toolWindow="Assistant by Activation" count="1" />
-      <entry toolWindow="Build by Activation" count="11" />
-      <entry toolWindow="Logcat by Activation" count="2" />
+      <entry toolWindow="Build by Activation" count="15" />
+      <entry toolWindow="Logcat by Activation" count="4" />
       <entry toolWindow="Messages by Activation" count="3" />
       <entry toolWindow="Preview by Activation" count="2" />
-      <entry toolWindow="Project by Activation" count="6" />
+      <entry toolWindow="Project by Activation" count="8" />
       <entry toolWindow="Run by Activation" count="1" />
+      <entry toolWindow="TODO by Activation" count="1" />
+      <entry toolWindow="Terminal by Activation" count="1" />
+      <entry toolWindow="Version Control by Activation" count="2" />
     </counts>
   </component>
   <component name="ToolbarClicksCollector">
@@ -247,8 +264,9 @@
       <entry action="Android.RunAndroidAvdManager@NavBarToolbar" count="7" />
       <entry action="Android.RunAndroidSdkManager@NavBarToolbar" count="3" />
       <entry action="Android.SyncProject@NavBarToolbar" count="1" />
-      <entry action="ChangesView.GroupBy@ChangesBrowser" count="1" />
-      <entry action="CheckinProject@NavBarToolbar" count="4" />
+      <entry action="ChangesView.GroupBy@ChangesBrowser" count="2" />
+      <entry action="ChangesView.Refresh@ChangesBrowser" count="1" />
+      <entry action="CheckinProject@NavBarToolbar" count="10" />
       <entry action="Debug@NavBarToolbar" count="2" />
       <entry action="ExternalSystem.RefreshAllProjects@Gradle View Toolbar" count="1" />
       <entry action="FileChooser.GotoDesktop@FileChooserDialog" count="6" />
@@ -267,19 +285,23 @@
       <entry action="com.android.tools.idea.uibuilder.editor.NlActionManager$ViewActionToolbarMenuWrapper@toolbar" count="5" />
       <entry action="com.android.tools.idea.uibuilder.error.IssuePanel$MinimizeAction@unknown" count="3" />
       <entry action="com.android.tools.idea.uibuilder.property.ViewAllPropertiesAction@TOOL_WINDOW_TOOLBAR" count="5" />
-      <entry action="com.intellij.diff.impl.DiffRequestProcessor$MyChangeDiffToolAction@DiffToolbar" count="1" />
+      <entry action="com.intellij.diff.impl.DiffRequestProcessor$MyChangeDiffToolAction@DiffToolbar" count="2" />
+      <entry action="com.intellij.diff.tools.util.text.TextDiffProviderBase$MyHighlightPolicySettingAction@DiffToolbar" count="1" />
       <entry action="com.intellij.diff.tools.util.text.TextDiffProviderBase$MyIgnorePolicySettingAction@DiffToolbar" count="6" />
       <entry action="com.intellij.ide.actions.CollapseAllToolbarAction@TreeActionsToolbar" count="1" />
       <entry action="com.intellij.ide.actions.ExpandAllToolbarAction@TreeActionsToolbar" count="1" />
       <entry action="com.intellij.ide.util.gotoByName.ChooseByNameFilter$FilterAction@gotfile.filter" count="4" />
       <entry action="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction@ToolwindowTitle" count="1" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="5" />
     </counts>
   </component>
   <component name="UsageTrigger">
     <counts>
-      <entry feature="StripeButton[Android Profiler].hidden" count="5" />
+      <entry feature="StripeButton[Android Profiler].hidden" count="6" />
       <entry feature="StripeButton[Version Control].hidden" count="1" />
       <entry feature="StripeButton[Version Control].shown" count="1" />
+      <entry feature="diff.DiffSettings.Tool.Unified viewer" count="1" />
+      <entry feature="diff.TextDiffSettings.HighlightPolicy.DO_NOT_HIGHLIGHT" count="1" />
       <entry feature="execute.AndroidRunConfigurationType.Debug" count="2" />
       <entry feature="execute.AndroidRunConfigurationType.Run" count="37" />
       <entry feature="ide.settings.Android SDK" count="1" />
@@ -291,7 +313,7 @@
       <entry feature="ide.settings.Plugins" count="1" />
       <entry feature="ideaapp.started" count="31" />
       <entry feature="project.view.pane.ProjectPane" count="3" />
-      <entry feature="terminal.win" count="2" />
+      <entry feature="terminal.win" count="3" />
       <entry feature="tips.of.the.day.next" count="26" />
       <entry feature="welcome.screen.WelcomeScreen.Configure" count="1" />
       <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="3" />
